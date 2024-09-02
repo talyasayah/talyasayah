@@ -4,6 +4,7 @@
 - I have completed CS50 Understanding Technology
 - I am enrolled in Introduction to Computer Science courses
 - You can reach me by talya.sayah@hisarschool.k12.tr
+- My website.
 
 
 <!---
